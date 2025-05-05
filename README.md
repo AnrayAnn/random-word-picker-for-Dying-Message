@@ -37,3 +37,6 @@ Subsequent draws will select from remaining unchosen words until the wordlist ha
 我不懂Python，代码完全交给deepseek撰写，我仅在本地测试其可用性，欢迎大家通过提交Issue向我反馈bug，我能修一定全力修
 
 I don't know Python. I relied entirely on DeepSeek for the coding and only performed local functionality tests. Please submit Issues for any bugs found—I'll prioritize fixing them.
+
+## 许可证/License
+GPL-3.0
